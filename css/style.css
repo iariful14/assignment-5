@@ -1,0 +1,278 @@
+/*<div class="social">
+
+				<ul>
+					<li><a href="#"></a></li>
+					<li><a href="#"></a></li>
+					<li><a href="#"></a></li>
+					<li><a href="#"></a></li>
+
+				</ul>
+
+				
+				
+			</div>*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: #87519D;
+	float: left;
+	width: 100%;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+
+}
+
+.logo {
+    width: 30%;
+    float: left;;
+}
+
+.logo img {
+	padding: 15px 0;
+}
+
+.menu {
+    width: 70%;
+    float: left;
+    padding: 15px 0;
+
+}
+
+.menu ul {
+	list-style: none;
+    font-size: 20px;
+    padding-top: 12px;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 0 40px;
+}
+
+.menu ul li a {
+
+}
+
+.intro {
+    background-color: #87519D;
+    text-align: center;
+}
+
+.intro h2 {
+	width: 45%;
+    margin: 0 auto;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+.intro button {
+	    background-color: #EE7a4b;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+}			
+
+.services {
+    width: 100%;
+    background-color: #16C1A4;
+    float: left;
+    text-align: center;
+}
+
+.services h2 {
+	    padding: 30px 0;
+}
+
+.services p {
+	    width: 550px;
+    margin: 0 auto;
+}
+
+.s-box {
+	    width: 20%;
+    float: left;
+    padding: 40px 0;
+    margin: 0px 28px;
+}
+
+.s-box img {
+	    height: 100px;
+}
+
+.s-box h4 {
+	    padding: 10px;
+}
+
+.s-box p {
+	width: 240px;
+    padding: 10px;
+}
+
+.team {
+	background-color: #D3D3D3;
+    float: left;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.team h2 {
+	    padding: 30px 0;
+}
+
+.team p {
+	width: 520px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+.tm-box {
+	width: 20%;
+    float: left;
+    padding: 30px 0;
+    margin: 0 28px;
+}
+
+.tm-box img {
+	    background-color: #D3D3D3;
+    height: 150px;
+}
+
+.tm-box h4 {
+	    padding: 15px 0;
+}
+
+.tm-box p {
+	    width: 230px;
+}
+
+.tm-box ul {
+	    list-style: none;
+}
+
+.tm-box ul li {
+	    display: inline;
+}
+
+.tm-box ul li a {
+	   font-size: 30px;
+    margin: 0 10px;
+    color: #9F9F9F;
+}
+
+.skills {
+	text-align: center;
+	width: 100%;
+	float: left;
+}
+
+.skills h2 {
+	    padding: 30px 0
+}
+
+.skills p {
+	   width: 500px;
+    margin: 0 auto;
+}
+
+.k-box {
+	    width: 20%;
+    float: left;
+    padding: 30px 0;
+    margin: 0 28px;
+}
+
+.k-box img {
+	    height: 150px;
+}
+
+.k-box h4 {
+	    padding: 20px 0;
+}
+
+.port {
+	background-color: #FFDC98;
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.port h2 {
+	    padding: 30px;
+}
+
+.port p {
+	width: 470px;
+    margin: 0 auto;
+}
+
+.port button {
+	padding: 5px 20px;
+    font-size: 17px;
+    margin: 20px;
+    background-color: #C4AD77;
+    border-radius: 5px;
+}
+
+.btn {
+
+    width: 100%;
+}
+
+.im {
+	width: 45%;
+    float: left;
+}
+
+.im img {
+	padding: 20px 35px;
+}
+
+.im h4 {
+padding-bottom: 10PX;
+}
+
+#bw {
+	background-color: #2DD0BF;
+}
+
+.reviews {
+	text-align: center;
+	width: 100%;
+	background-color: #D74581;
+	float: left;
+}
+
+.reviews h2 {
+	padding: 30px 0;
+}
+
+.reviews p {
+	width: 500ox;
+}
+
+.r-box {
+	width: 45%;
+	float: left;
+	padding: 20px;
+}
+.r-box img {
+	height: 150px;
+	float: left;
+}
+
+.r-box h4 {    
+	text-align: left;
+    padding: 30px;
+    margin-left: 140px;
+}
+
+.r-box p {
+	    margin-left: 170px;
+}
